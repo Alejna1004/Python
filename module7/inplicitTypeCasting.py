@@ -1,0 +1,20 @@
+#Example 1
+
+x = 32
+y = 5.3
+
+result = x + y
+print(result, "of type", type(result))
+
+#Example2
+age = 25
+message = "I am" + str(age) + " years old"
+print(message)
+
+#Example3
+a = 5
+b = "3"
+result1 = a * int(b)
+print(result1, "of type", type(result1))
+
+#z = int("abc")
